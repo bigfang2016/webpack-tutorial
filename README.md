@@ -6,7 +6,7 @@
 
 源码位于：https://github.com/yinsigan/webpack-tutorial
 
-电子版: [PDF](https://www.gitbook.com/download/pdf/book/yinsigan/nginx) [Mobi](https://www.gitbook.com/download/mobi/book/yinsigan/nginx) [ePbu](https://www.gitbook.com/download/epub/book/yinsigan/nginx)
+电子版: [PDF](https://www.gitbook.com/download/pdf/book/yinsigan/webpack-3) [Mobi](https://www.gitbook.com/download/mobi/book/yinsigan/webpack-3) [ePbu](https://www.gitbook.com/download/epub/book/yinsigan/webpack-3)
 
 ### 联系我:
 
