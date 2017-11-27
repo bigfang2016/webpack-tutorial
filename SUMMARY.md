@@ -8,3 +8,4 @@
 * [5. 使用第一个 webpack 插件 html-webpack-plugin](chapters/5.md)
 * [6. 使用 loader 处理 CSS 和 Sass](chapters/6.md)
 * [7. 初识 webpack-dev-server](chapters/7.md)
+* [8. 用 webpack 和 babel 建立 react 开发环境](chapters/8.md)
