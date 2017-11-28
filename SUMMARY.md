@@ -11,3 +11,4 @@
 * [8. 用 webpack 和 babel 配置 react 开发环境](chapters/8.md)
 * [9. 用 clean-webpack-plugin 来清除文件](chapters/9.md)
 * [10. 配置多个 HTML 文件](chapters/10.md)
+* [11. 如何使用 pug (jade) 作为 HTML 的模板](chapters/11.md)
