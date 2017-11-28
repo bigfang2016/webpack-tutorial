@@ -1,12 +1,20 @@
 {
-    "plugins": ["github-buttons"],
+    "plugins": [
+      "github-buttons"
+    ],
     "pluginsConfig": {
       "github-buttons": {
-          "repo": "yinsigan/webpack-tutorial",
-          "types": [
-              "star",
-              "watch"
-          ]
+        "buttons": [{
+          "user": "yinsigan",
+          "repo": "webpack-tutorial",
+          "type": "star",
+          "size": "large"
+        }, {
+          "user": "azu",
+          "type": "follow",
+          "width": "230",
+          "count": false
+        }]
       }
     }
-}
+  }
