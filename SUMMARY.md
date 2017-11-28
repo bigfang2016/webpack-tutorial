@@ -8,6 +8,6 @@
 * [5. 使用第一个 webpack 插件 html-webpack-plugin](chapters/5.md)
 * [6. 使用 loader 处理 CSS 和 Sass](chapters/6.md)
 * [7. 初识 webpack-dev-server](chapters/7.md)
-* [8. 用 webpack 和 babel 建立 react 开发环境](chapters/8.md)
+* [8. 用 webpack 和 babel 配置 react 开发环境](chapters/8.md)
 * [9. 用 clean-webpack-plugin 来清除文件](chapters/9.md)
 * [10. 配置多个 HTML 文件](chapters/10.md)
