@@ -12,3 +12,4 @@
 * [9. 用 clean-webpack-plugin 来清除文件](chapters/9.md)
 * [10. 配置多个 HTML 文件](chapters/10.md)
 * [11. 如何使用 pug (jade) 作为 HTML 的模板](chapters/11.md)
+* [12. 如何使用模块热替换 HMR 来处理 CSS](chapters/12.md)
