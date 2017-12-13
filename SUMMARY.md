@@ -16,3 +16,4 @@
 * [13. 生产环境 vs 开发环境](chapters/13.md)
 * [14. 如何打包图片](chapters/14.md)
 * [15. 加载和打包 Twitter Bootstrap 框架](chapters/15.md)
+* [16. 使用 ProvidePlugin 插件来处理像 jQuery 这样的第三方包](chapters/16.md)
