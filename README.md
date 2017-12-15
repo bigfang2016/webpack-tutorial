@@ -4,7 +4,9 @@
 
 原文发布于我的个人博客：https://www.rails365.net
 
-源码位于：https://github.com/yinsigan/webpack-tutorial
+源码位于：https://github.com/hfpp2012/webpack-tutorial
+
+项目源代码位于：https://github.com/hfpp2012/hello-webpack
 
 电子版: [PDF](https://www.gitbook.com/download/pdf/book/yinsigan/webpack-3) [Mobi](https://www.gitbook.com/download/mobi/book/yinsigan/webpack-3) [ePbu](https://www.gitbook.com/download/epub/book/yinsigan/webpack-3)
 
