@@ -18,3 +18,4 @@
 * [15. 加载和打包 Twitter Bootstrap 框架](chapters/15.md)
 * [16. 使用 ProvidePlugin 插件来处理像 jQuery 这样的第三方包](chapters/16.md)
 * [17. 轻松通过两个实例来理解 devtool: 'source-map' 是什么意思](chapters/17.md)
+* [18. 构建开发和生产环境-分离配置文件](chapters/18.md)
