@@ -2,6 +2,8 @@
 
 最详细，最简单的零基础 webpack 3 入门教程，人人都能学会。
 
+配套视频：https://www.rails365.net/movies/webpack-3-ling-ji-chu-ru-men-shi-pin-jiao-cheng-1-jie-shao
+
 原文发布于我的个人博客：https://www.rails365.net
 
 源码位于：https://github.com/hfpp2012/webpack-tutorial
